@@ -1,5 +1,0 @@
-C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\ЗадачаПаши\obj\Debug\net6.0\ЗадачаПаши.csproj.AssemblyReference.cache
-C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\ЗадачаПаши\obj\Debug\net6.0\ЗадачаПаши.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\ЗадачаПаши\obj\Debug\net6.0\ЗадачаПаши.AssemblyInfoInputs.cache
-C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\ЗадачаПаши\obj\Debug\net6.0\ЗадачаПаши.AssemblyInfo.cs
-C:\Users\Nastua\Desktop\обучение\Дз по C#\seminar2_c#\ЗадачаПаши\obj\Debug\net6.0\ЗадачаПаши.csproj.CoreCompileInputs.cache

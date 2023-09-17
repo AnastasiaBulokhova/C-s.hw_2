@@ -14,7 +14,7 @@ int[] getRandomArray(int length, int min, int max)
     return array;
 }
 
-int SumMinus(int[] array)
+int SumOdd(int[] array)
 {
     int sum = 0;
     for (int i = 0; i < array.Length; i++)
@@ -31,5 +31,5 @@ int[] array = getRandomArray(5, -100, 100);
 string str = string.Join(", ", array);
 System.Console.WriteLine(str);
 
-int result = SumMinus(array);
+int result = SumOdd(array);
 System.Console.WriteLine($"Сумма элементов на нечетных позициях = {result}");

@@ -17,7 +17,7 @@ double[] getRandomArray(int length, int min, int max)
 double MaxNum(double[] array)
 {
     double result = 0;
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)   // min max = array[1],
     {
         if (array[i] > result)
         {
